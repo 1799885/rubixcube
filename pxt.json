@@ -1,5 +1,5 @@
 {
-    "name": "Rubix,cube",
+    "name": "Rubix's Cube",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -20,5 +20,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
