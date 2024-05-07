@@ -1,7 +1,8 @@
+
  
 
 
-> Open this page at [https://1799885.github.io/rubixcube/](https://1799885.github.io/rubixcube/)
+> Open this page at [https://1799885.github/rubix-cube/](https://1799885.github/rubix-cube/)
 
 ## Use as Extension
 
